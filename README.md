@@ -24,6 +24,7 @@ This project implements the K-Means clustering algorithm in Excel using VBA. It 
 
 1. Download the Excel file containing the VBA implementation.
 2. Open the file and enable macros when prompted.
+3. Prepare a dataset in CSV or Excel file format. We also prepare 3 datasets from the UCI Machine Learning Repository. Please visit [example-dataset](https://github.com/Tobiezhg/k-means-clustering-excel-tool/tree/example-dataset)
 
 ### Usage (For Users)
 
