@@ -62,7 +62,7 @@ This project implements the K-Means clustering algorithm in Excel using VBA. It 
 This project was created through the collaborative efforts of a team of Bachelor of Economics and Business Administration students from VGU:
 
 - The team—Ta Nguyen Minh Hang, Vuong Binh Nguyen, Nguyen Phan Hoang Nhi, Nguyen Ai Nhi, and Phan Tan Huy—collectively contributed to research, analysis, documentation, and presentation, ensuring the project was well-structured, accessible, and effectively communicated.
-- Ta Nguyen Minh Hang: Maintains the project, handles documentation, and contributes to researching different approaches, exploring various techniques and algorithms to enhance the clustering process.
+- Ta Nguyen Minh Hang: Develops and maintains the project, handles documentation, and contributes to researching different approaches, exploring various techniques and algorithms to enhance the clustering process.
 - Vuong Binh Nguyen: Assists with testing and evaluating the tool, providing feedback to improve usability and effectiveness.
 
 Contributions are welcome! If you find a bug or have suggestions for improvements, since this is an Excel-based project, modifications should be made directly within the downloaded file. If you encounter any issues or have suggestions, please open an issue or start a discussion on the GitHub repository.
