@@ -30,9 +30,9 @@ This project implements the K-Means clustering algorithm in Excel using VBA. It 
 1. Load your data into the `tblRaw` table in the Excel workbook.
 2. Ensure your dataset is suitable for clustering by cleaning it with `2. Clean Data` before running the clustering process.
 3. Select the number of clusters and whether to use Balanced K-Means clustering and determine the most suitable number of clusters for the dataset using Silhouette Scores. In the preprocessing step, it is recommended that data be standardized to enhance efficiency and performance.
-4. Click the "3. Apply Button" button to start the process.
-5. View the clustering results in the summary window (`frmClusteringResultSummary`) and in the RESULT\_TABLE sheet.
-6. Review the centroid coordination, assigned clusters, and visualizations in each iteration with the Iteration Log feature.
+4. Click the `3. Apply Button` button to start the process.
+5. View the clustering results in the summary window (`frmClusteringResultSummary`) and in the `RESULT_TABLE` sheet.
+6. Review the centroid coordination, assigned clusters, and visualizations in each iteration with the `Iteration Log` feature.
 
 ## For Programmers
 
