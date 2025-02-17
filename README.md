@@ -67,6 +67,3 @@ This project was created through the collaborative efforts of a team of Bachelor
 
 Contributions are welcome! If you find a bug or have suggestions for improvements, since this is an Excel-based project, modifications should be made directly within the downloaded file. If you encounter any issues or have suggestions, please open an issue or start a discussion on the GitHub repository.
 
----
-
-This README provides a structured overview of the project, making it easy for users to understand, install, and use your K-Means clustering tool in Excel VBA.
