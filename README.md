@@ -33,7 +33,7 @@ This project implements the K-Means clustering algorithm in Excel using VBA. It 
 4. Click the "3. Apply Button" button to start the process.
 5. View the clustering results in the summary window (`frmClusteringResultSummary`) and in the RESULT\_TABLE sheet.
 6. Review the centroid coordination, assigned clusters, and visualizations in each iteration with the Iteration Log feature.
-Please refer to this [instructional video](https://youtu.be/Lc2yVrx2HIk) to have an overview of the tool.
+Please refer to this [instructional video](https://youtu.be/7hnCragi7Mc) to have an overview of the tool.
 ## For Programmers
 
 ### VBA Implementation Details
